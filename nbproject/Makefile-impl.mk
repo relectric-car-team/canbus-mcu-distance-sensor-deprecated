@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=can-base.X
+PROJECTNAME=canbus-mcu-base.X
 
 # Active Configuration
 DEFAULTCONF=default
